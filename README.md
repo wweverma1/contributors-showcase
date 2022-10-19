@@ -29,7 +29,7 @@ This project offers you a new add-on i.e. **Contributor's Showcase** to add to y
 
 ## Demo
 
-![Contributors' Showcase]()
+![Contributors' Showcase](./assets/images/demo.jpg)
 
 <!-- ## 🧐 Features -->
 
