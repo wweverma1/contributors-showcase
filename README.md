@@ -29,7 +29,7 @@ This project offers you a new add-on i.e. **Contributor's Showcase** to add to y
 
 ## Demo
 
-![Contributors' Showcase](./assets/images/demo.jpg)
+![Contributors' Showcase](./static/images/demo.jpg)
 
 <!-- ## 🧐 Features -->
 
@@ -42,19 +42,16 @@ Copy-paste this code into your project's GitHub Readme.
 
 ![Contributors' Showcase]()
 
-Create your Contributors' Showcase: [Contributors' Showcase](https://github.com/wweverma1/contributors-showcase)
+Create your Contributors' Showcase: [Contributors' Showcase](https://contributors-showcase.onrender.com/showcase?owner=wweverma1&repository=contributors-showcase&limit=5)
 ```
 
-<!--
 #### Parameters:
 
-- `username` - Your Codeforces Username
-- `theme` - Theme code for the cards. Currently this project offers 2 themes:
-    - `1` - Light Theme
-    - `2` - Dark Theme 
+- `owner` - username of the project owner
+- `repository` - name of the project repository
+- `limit` - number of contributors to showcase
 
-Default `theme` parameter is `1`.
--->
+Default `limit` parameter is `5`.
 
 ## Contributing
 
@@ -63,12 +60,10 @@ If you're interested in contributing to this project please pick an [Open Issue]
 Also, please follow the [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and open a pull request.
 Thanks!
 
-<!--
 ## 🙏 Special Thanks
 
-- [Codeforces](https://codeforces.com/) for their [APIs](https://codeforces.com/apiHelp)
-- [svgwrite](https://pypi.org/project/svgwrite/)
--->
+- [GitHub](https://github.com/) for their [APIs](https://docs.github.com/en/rest)
+- [pygal](https://www.pygal.org/en/stable/index.html)
 
 <hr>
 <p align="center">
