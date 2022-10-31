@@ -40,9 +40,9 @@ Copy-paste this code into your project's GitHub Readme.
 ```md
 ### Contributors' Showcase 🏆
 
-![Contributors' Showcase]()
+![Contributors' Showcase](https://contributors-showcase.onrender.com/showcase?owner=wweverma1&repository=contributors-showcase&limit=5)
 
-Create your Contributors' Showcase: [Contributors' Showcase](https://contributors-showcase.onrender.com/showcase?owner=wweverma1&repository=contributors-showcase&limit=5)
+Create your Contributors' Showcase: [Contributors' Showcase](https://github.com/wweverma1/contributors-showcase)
 ```
 
 #### Parameters:
